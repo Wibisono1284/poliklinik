@@ -1,3 +1,3 @@
-[submodule "folder-baru"]
-	path = folder-baru
+[submodule "poliklinik"]
+	path = poliklinik
 	url = https://github.com/Wibisono1284/poliklinik.git
